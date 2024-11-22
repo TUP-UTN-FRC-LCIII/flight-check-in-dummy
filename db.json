@@ -1,7 +1,7 @@
 {
   "reservations": [
     {
-      "code": "AF456B",
+      "id": "AF456B",
       "flight":"AR1550",
       "passengers": [
         {
@@ -13,7 +13,7 @@
       ]
     },
     {
-      "code": "AF4569",
+      "id": "AF4569",
       "flight":"AR1551",
       "passengers": [
         {
@@ -27,7 +27,7 @@
   ],
   "flights": [
     {
-      "code": "AR1550",
+      "id": "AR1550",
       "aircraft": "Boeing 737-800",
       "departure": "2024-12-01T15:30:00Z",
       "airport": {
@@ -57,7 +57,7 @@
       ]
     },
     {
-      "code": "AR1551",
+      "id": "AR1551",
       "aircraft": "Boeing 737-800",
       "departure": "2024-12-01T20:30:00Z",
       "airport": {
