@@ -2,6 +2,7 @@
   "reservations": [
     {
       "id": "AF456B",
+      "status":"READY-TO-CHECK-IN",
       "flight":"AR1550",
       "passengers": [
         {
@@ -14,6 +15,33 @@
     },
     {
       "id": "AF4569",
+      "status":"CHECKED-IN",
+      "flight":"AR1551",
+      "passengers": [
+        {
+          "name":"Diego Maradona"
+        },
+        {
+          "name":"Guillermo Coppola"
+        }
+      ]
+    },
+    {
+      "id": "AF4570",
+      "status":"DUE",
+      "flight":"AR1551",
+      "passengers": [
+        {
+          "name":"Diego Maradona"
+        },
+        {
+          "name":"Guillermo Coppola"
+        }
+      ]
+    },
+    {
+      "id": "AF4571",
+      "status":"PENDING",
       "flight":"AR1551",
       "passengers": [
         {
